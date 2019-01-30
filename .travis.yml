@@ -6,7 +6,7 @@ services:
   - docker
 
 after_success:
-  - docker build -t se_methods .
-  - docker run se_methods
+  - docker build -t sem_cw1 .
+  - docker run sem_cw1
 
 
