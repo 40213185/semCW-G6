@@ -8,7 +8,7 @@ This coursework is being worked on as a SCRUM Team comprised of:
         *Namo Najem
         *Pablo Ferrando Iranzo
 
-_- Master Build Status_
+- Master Build Status [![Build Status](https://travis-ci.org/40213185/semCW-G6.svg?branch=master)](https://travis-ci.org/40213185/semCW-G6)
 _- Develop Build Status_
 _- License_
 _- Release_
