@@ -10,5 +10,5 @@ This coursework is being worked on as a SCRUM Team comprised of:
 
 - Master Build Status [![Build Status](https://travis-ci.org/40213185/semCW-G6.svg?branch=master)](https://travis-ci.org/40213185/semCW-G6)
 _- Develop Build Status_
-_- License_
-_- Release_
+- License [![LICENSE](https://img.shields.io/github/license/40213185/semCW-G6.svg?style=flat-square)](https://github.com/40213185//semCW-G6/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/40213185/semCW-G6/all.svg?style=flat-square)](https://github.com/40213185/semCW-G6/releases)  
